@@ -1,17 +1,8 @@
-# CMPUT 301 : Lab 1 Participation Exercise
+## Lab Participation – Mood Models
 
-## Student Details
+Name: Abrar Shahriar Hossain  
+Course: CMPT / CMPUT  
+Description: Added abstract Mood base class with HappyMood and SadMood subclasses.  
+References: Android Developer Documentation  
+Collaborators: None
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
-
-## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
-
-## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
